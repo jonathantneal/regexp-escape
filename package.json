@@ -1,0 +1,28 @@
+{
+	"name": "polyfill-regexp-escape",
+	"version": "1.0.0",
+	"description": "Return a string with escaped regular expression characters.",
+	"main": "RegExp.escape.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jonathantneal/regexp-escape.git"
+	},
+	"keywords": [
+		"RegExp",
+		"escape",
+		"String",
+		"JavaScript",
+		"ECMA",
+		"polyfill",
+		"prollyfill"
+	],
+	"author": "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)",
+	"license": "CC0-1.0",
+	"bugs": {
+		"url": "https://github.com/jonathantneal/regexp-escape/issues"
+	},
+	"homepage": "https://github.com/jonathantneal/regexp-escape"
+}
